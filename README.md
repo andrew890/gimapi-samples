@@ -11,6 +11,10 @@ This repository contains samples demonstrating the use of the EasyGIMAPI Java in
 
 - Development can be done off mainframe using a regular IDE, but you can't run/debug/test off mainframe.
 
+## More information
+
+For more information, visit the product page at [https://blackhillsoftware.com/easygimapi/](https://blackhillsoftware.com/easygimapi/)
+
 ## Samples
 
 See [SAMPLES.md](./SAMPLES.md) for detailed descriptions of the included samples.
